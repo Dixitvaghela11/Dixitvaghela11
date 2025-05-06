@@ -41,8 +41,7 @@ I'm always open to collaboration or freelance opportunities!
 If you have a project or idea, feel free to reach out.  
 📧 Email: dixitvaghela11@gmail.com  
 📱 WhatsApp: +91 9106688299  
-🌐 Portfolio: *(Add your portfolio link here)*  
-🧑‍💼 LinkedIn: *(Add your LinkedIn URL here)*
+🌐 Portfolio: https://dixportfolio.netlify.app 
 
 ---
 
