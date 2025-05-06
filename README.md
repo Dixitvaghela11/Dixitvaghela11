@@ -3,7 +3,7 @@
 🚀 Passionate Web Developer | PHP | Laravel | React | Node.js | MySQL | Shopify  
 📍 Based in Surat, India  
 📧 Reach me at: dixitvaghela11@gmail.com  
-📱 WhatsApp: +91 9106688299  
+📱 WhatsApp: +91 9724901801  
 
 ---
 
@@ -40,8 +40,7 @@
 - 👨‍⚕️ Patient Acuity Monitoring System (Laravel + React)  
 - 👩‍💼 HR Digitalization System (Laravel, React, Inertia)  
 - 🧾 OPS Assessment System (Laravel, React, Inertia)  
-- 🏢 Job Portal (ASP.NET MVC, SQL Server)  
-- 🏥 Hospital Queue Management System (Laravel Breeze + Inertia.js)
+- 🏢 Job Portal (ASP.NET MVC, SQL Server) 
 
 ---
 
@@ -63,4 +62,4 @@ If you have a project or idea, feel free to reach out.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Dix
