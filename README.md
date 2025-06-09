@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tools & Technologies
-<!-- Frontend -->
+## 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,27 +16,37 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<!-- Backend -->
+---
+
+## 🖥️ Backend
 ![Backend Development](https://img.shields.io/badge/-Backend%20Development-6DB33F?style=flat&logo=server&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-<!-- Database -->
+---
+
+## 🗄️ Databases
 ![Database](https://img.shields.io/badge/-Database-4DB33D?style=flat&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-<!-- DevOps -->
+---
+
+## ⚙️ DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<!-- CMS / E-commerce -->
+---
+
+## 🛍️ CMS / E-commerce
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-<!-- Microsoft / BI -->
+---
+
+## 📊 Microsoft / BI
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white)
